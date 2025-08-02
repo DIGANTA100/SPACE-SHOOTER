@@ -43,8 +43,7 @@ Welcome to **Space Shooter**, a 2D arcade-style shooting game built using **Mode
 
 ## 📸 Screenshots
 
-> *(Add screenshots or gameplay gifs here)*  
-> Example:
+> *(Here are some Images)*  
 > ![Game Image](assets/images/MainHomePage.png)
 
 ---
