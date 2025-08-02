@@ -19,7 +19,7 @@ Welcome to **Space Shooter**, a 2D arcade-style shooting game built using **Mode
   Player can fire guided missiles that destroy multiple enemies in range.
 
 - 🔄 **Arena Transitions**  
-  Dynamic stage changes after achieving milestones (e.g., score ≥ 150).
+  Dynamic stage changes after achieving milestones (e.g., score ≥ 200).
 
 - 🎶 **Background Music & Effects**  
   Arena-based theme music using `iSound`, synced with transitions and actions.
@@ -45,7 +45,7 @@ Welcome to **Space Shooter**, a 2D arcade-style shooting game built using **Mode
 
 > *(Here are some Images)*  
 > ![Game Image](Modern-iGraphics-main/assets/images/MainHomePage.png)
-
+> ![Game Image](Modern-iGraphics-main/assets/images/newbg1.png)
 ---
 
 ## ▶️ Demo Video
@@ -61,3 +61,5 @@ Welcome to **Space Shooter**, a 2D arcade-style shooting game built using **Mode
 1. Clone this repository:
    ```bash
    git clone https://github.com/DIGANTA100/SPACE-SHOOTER
+
+
