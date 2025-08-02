@@ -46,6 +46,8 @@ Welcome to **Space Shooter**, a 2D arcade-style shooting game built using **Mode
 > *(Here are some Images)*  
 > ![Game Image](Modern-iGraphics-main/assets/images/MainHomePage.png)
 > ![Game Image](Modern-iGraphics-main/assets/images/newbg1.png)
+> ![Game Image](Modern-iGraphics-main/assets/images/background2.png)
+> ![Game Image](Modern-iGraphics-main/assets/images/Ship6.png)
 ---
 
 ## ▶️ Demo Video
