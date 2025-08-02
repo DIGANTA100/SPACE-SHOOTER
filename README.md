@@ -52,7 +52,7 @@ Welcome to **Space Shooter**, a 2D arcade-style shooting game built using **Mode
 ## ▶️ Demo Video
 
 > Watch the gameplay here:  
-> [![Watch on YouTube]([https://img.shields.io/badge/Watch-YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/yourlinkhere](https://youtu.be/XoyaHeMMCFo))
+> [![Watch on YouTube]((https://youtu.be/XoyaHeMMCFo))
 
 ---
 
